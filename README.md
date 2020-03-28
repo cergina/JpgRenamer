@@ -1,9 +1,11 @@
 # JpgRenamer
+## DESCRIPTION
 BAT file to take all jpg files in current directory, rename them into desired format and put into output directory
 
 ## USAGES
-*Many (tens, hundreds, thousands, ...) jpg files in a directory that you want to rename in a specific way
-Renaming them all would be time consuming.
+Many (tens, hundreds, thousands, ...) jpg files in a directory that you want to rename in a specific way
+
+Renaming them all BY HAND would be really time consuming.
 
 ### Imagine you have files 
 0001.jpg
